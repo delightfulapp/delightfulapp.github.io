@@ -229,6 +229,13 @@ header .carousel-indicators li {
 	color: white;
 }
 
+.purchase button.soon-app-store{
+	width: 152px;
+	height: 52px;
+	background: url(../img/soon-appstore.png) #3a3a3a no-repeat 0px 5px;
+	color: white;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	PAYOFF
 /*-----------------------------------------------------------------------------------*/
