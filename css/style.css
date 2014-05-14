@@ -160,15 +160,15 @@ header .large-8 {
 	width: auto;
 	background-repeat: no-repeat;
 	margin-top: 0;
-	margin-left: -96px;
+	margin-left: -50px;
 	overflow: hidden;
 	height: 499px;
 }
 
 #teaser-slider-2 .flexslider:hover .flex-next {right: 15px!important}
 #teaser-slider-2 .flexslider {
-	left: 270px;
-	top: 80px;
+	left: 205px;
+	top: 100px;
 	width: 208px
 }
 
