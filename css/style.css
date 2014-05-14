@@ -413,7 +413,7 @@ header .carousel-indicators li {
 /*-----------------------------------------------------------------------------------*/
 
 .get-it{
-	padding: 100px 0px 160px 0px;
+	padding: 0px 0px 160px 0px;
 	text-align: center;
 }
 
@@ -425,7 +425,7 @@ header .carousel-indicators li {
 }
 
 .get-it hr{
-	margin-top: 3em;
+	margin-top: 0em;
 	margin-bottom: 3em;
 }
 
