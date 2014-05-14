@@ -236,6 +236,30 @@ header .carousel-indicators li {
 	color: white;
 }
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+	.purchase button.app-store{
+	width: 152px;
+	height: 52px;
+	background: url(../img/badge-appstore@2x.png) #3a3a3a no-repeat 0px 5px;
+	color: white;
+	background-size: 152px 52px;
+	}
+
+	.purchase button.soon-app-store{
+	width: 152px;
+	height: 52px;
+	background: url(../img/soon-appstore@2x.png) #3a3a3a no-repeat 0px 5px;
+	color: white;
+	background-size: 152px 52px;
+	}
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	PAYOFF
 /*-----------------------------------------------------------------------------------*/
