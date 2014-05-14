@@ -485,6 +485,11 @@ footer {
 footer .inline-list {
 	line-height: 45px;
 }
+
+footer a.nico {
+
+}
+
 footer a.icon {
 	color: #CCC !important;
 	font-size: 40px;
