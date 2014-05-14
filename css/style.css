@@ -47,7 +47,7 @@ h2 {
 	font-weight: 200;
 }
 .top-bar {
-	height: 78px;
+	height: 0px;
 	line-height: 78px;
 }
 .top-bar a{font-family: 'Cabin Condensed', sans-serif;}
@@ -124,7 +124,7 @@ header {
 	padding: 60px 0 0;
 	background-color: #4e97cc;
 	color: white;
-	margin-top: 78px;
+	margin-top: 0px;
 	overflow: hidden;
 }
 header img {
@@ -1754,18 +1754,6 @@ you can use the generic selector below, but it's slower:
 	-ms-transform: scale(1);
 	transform: scale(1);
 	opacity: 1;
-}
-#ascrail2000{
-	background-color:#f3f3f3;
-	cursor:pointer;
-}
-#ascrail2000>div{
-	background-color:#4e97cc!important;
-	width:8px!important;
-	cursor:pointer;
-	border-radius:0!important;
-	-webkit-border-radius:0!important;
-	-moz-border-radius:0!important;
 }
 #success{
 	width: 100%;
