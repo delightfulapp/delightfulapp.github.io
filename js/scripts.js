@@ -160,6 +160,6 @@ $('header .carousel').carousel({
 
 // iPhone Features Carousel
 $('.detail .carousel').carousel({
-  interval: 4000
+  interval: 10000
 })
 
