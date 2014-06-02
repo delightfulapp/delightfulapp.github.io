@@ -578,6 +578,10 @@ header, .social{
 	
 }
 
+.pressrelease {
+	text-align:left;
+}
+
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     /* Retina-specific stuff here */
     .purchasebutton.app-store, .get-it button.app-store{
